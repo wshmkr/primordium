@@ -1,5 +1,4 @@
 #!/usr/bin/env sh
-# One-time setup for repos created from the primordium template.
 # Applies conventional repo settings and branch protection via gh CLI.
 # Requires: gh authenticated, run from inside the target repo.
 set -e
